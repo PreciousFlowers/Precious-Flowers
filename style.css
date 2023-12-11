@@ -10,7 +10,7 @@ body {
     font-family: 'Raleway', sans-serif;;
     line-height: 1.6em;
     color: black;
-    background-image: url(./PF-WPagePics/pwbackground.png);
+    background-image: url(PF-WPagePics/pwbackground.png);
     min-height: 100vh;
     width: 100%;
     background-position: center;
@@ -86,7 +86,7 @@ nav ul li a:hover, nav ul li a:focus {
 
 main {
     padding: 2em;
-    background-image: url(./PF-WPagePics/p.png);
+    background-image: url(PF-WPagePics/p.png);
     margin: 2em;
 }
 
